@@ -12,5 +12,4 @@
 
 ## So what's the site all about, and what does the org have that's different from the existing repo? 🤔
 
-Fort.ind is a website that I made during the pandemic in 2019. It was a little site at the time, and it was used as an unblocked games site. Over the years, it grew to something that I never knew would be so amazing :D This organization also comes with some extra goodies like the code for the Fort desktop app and Nunobox. This will also (soon!) have Fort.mac source code
-
+Fort.ind is a website that I made during the pandemic in 2019. It was a little site at the time, and it was used as an unblocked games site. Over the years, it grew to something that I never knew would be so amazing :D This organization also comes with some extra goodies like the code for the Fort desktop app (BM's version).
